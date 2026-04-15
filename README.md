@@ -1,2 +1,1 @@
-# Mini-Bank-
-A mini banking web application built using HTML, CSS, and JavaScript that allows users to create accounts, manage balance, perform transactions, and store data using localStorage.
+Hospital management A Hospital Management System developed using HTML, CSS, and JavaScript that enables efficient management of patient records, appointment scheduling, and basic healthcare operations with a user-friendly interface.
